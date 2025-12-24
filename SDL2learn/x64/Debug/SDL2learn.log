@@ -1,0 +1,38 @@
+﻿  Game.cpp
+  main.cpp
+  Scene.cpp
+  SceneBoss.cpp
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneBoss.cpp(13,40): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneBoss.cpp(17,42): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneBoss.cpp(18,55): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneBoss.cpp(345,51): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneBoss.cpp(349,53): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneBoss.cpp(351,58): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneBoss.cpp(354,51): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneBoss.cpp(355,51): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneBoss.cpp(446,42): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneBoss.cpp(448,43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneBoss.cpp(450,43): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  SceneEnd.cpp
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneEnd.cpp(86,40): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneEnd.cpp(87,39): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneEnd.cpp(88,45): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneEnd.cpp(91,53): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneEnd.cpp(98,42): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneEnd.cpp(105,43): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneEnd.cpp(111,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneEnd.cpp(112,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneEnd.cpp(117,64): warning C4305: “参数”: 从“double”到“float”截断
+  SceneMain.cpp
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneMain.cpp(161,51): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneMain.cpp(162,48): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneMain.cpp(300,51): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneMain.cpp(306,52): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneMain.cpp(395,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneMain.cpp(407,25): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneMain.cpp(610,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  SceneTitle.cpp
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneTitle.cpp(30,40): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\SceneTitle.cpp(35,47): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码...
+  SDL2learn.vcxproj -> C:\Users\GWT\Desktop\甘文添c++期末\SDL2learn\x64\Debug\SDL2learn.exe
